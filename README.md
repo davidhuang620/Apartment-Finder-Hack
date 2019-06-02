@@ -1,6 +1,6 @@
 # Apartments.com Web Scrapping Tool
 
-Version: 5/31/2018
+Version: 5/31/2019
 
 
 Using Python to web Scrap all the apartments data in a region from Apartments.com.
@@ -19,6 +19,6 @@ This Web Scrapping Tool completely regain you the control of the Apartments data
 
 Notes:
 
-Warning: Use with Caution! Your IP Address may be ban from Apartments.com by making too many requests in a short amount of time! 
+Use with Caution! Your IP Address may be ban from Apartments.com by making too many requests in a short amount of time! 
 Please read and obey the terms in Apartments.com & use time.sleep() to space out each request. 
 Use on your own risk!
